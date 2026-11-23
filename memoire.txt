@@ -1,7 +1,8 @@
 n'importe quoi koa
 Titre : L'impact de l'IA sur le métier de data analyst
 
-
+Introduction
+Ce mémoire étudie comment l'intelligence artificielle transforme le quotidien des data analysts.
 
 
 Chapitre 1 - État de l'art
